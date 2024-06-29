@@ -19,13 +19,13 @@
 Clone 这个 project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/SunnyZhang902/Sunny-OS_2024_TongJi_3.git
 ```
 
 前往项目目录
 
 ```bash
-  cd my-project
+  cd Sunny-OS_2024_TongJi_3
 ```
 
 安装依赖
